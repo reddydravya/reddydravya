@@ -3,6 +3,11 @@
 👨‍💻 I am currently exploring Python and working on Personal Projects to Enhance My Coding Skills<br/>
 📚 Studying Information Science Engineering<br/>
 
+🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/dravya-b-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="20" width="30" /></a>
+<a href="https://instagram.com/dravya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="20" width="30" /></a>
+  
 <!--![Dravya's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddydravya&show_icons=true&theme=transparent)-->
 
 
@@ -12,7 +17,3 @@
 
 
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dravya-b-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="20" width="30" /></a>
-<a href="https://instagram.com/dravya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="20" width="30" /></a>
