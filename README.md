@@ -1,7 +1,7 @@
 ## Hi, I'm Dravya!
 
-👨‍💻 I am currently exploring Python and working on Personal Projects to Enhance My Coding Skills<br/>
 📚 Studying Information Science Engineering<br/>
+
 
 🌐 Connect with me
 <p align="left">
